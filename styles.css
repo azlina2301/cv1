@@ -1,0 +1,53 @@
+body {
+      background-color: #EAF6F6;
+      margin: 0;
+      font-family: verdana, sans-serif;
+      text-align: center;
+     }
+
+ table.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+  }
+
+ul.center {
+    margin: 1% auto;
+    text-align: center;
+}
+
+h2  {
+     background-color: black;
+     color: white;
+     width: 100%;
+     margin: 0 auto 0 auto 0;
+    }
+
+h4 {
+     width: 50%;
+     margin: 0 auto 0 auto 0;
+     padding:1em auto;
+     text-align: center;
+}
+
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+max-width: 100%;
+margin: 0;
+}
+
+head{
+      margin: 0;
+      text-align: center;
+}
+
+.profile {
+    position: absolute;
+}
+
+tr {
+    margin: 5%;
+}
